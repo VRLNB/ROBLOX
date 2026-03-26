@@ -28,6 +28,8 @@ writefile("IceWare/Discord.txt", "https://discord.gg/sn2Etx6M8G")
 local games = {
     [{89851325271396}] = "https://raw.githubusercontent.com/Iceware-RBLX/Roblox/refs/heads/main/Games/ViolenceDistrict/Main.lua"; -- 巨人时代
     [{11653088948}] = "https://raw.githubusercontent.com/VRLNB/GH-BM/refs/heads/main/_Jurassic_square_.txt"; -- 侏罗纪方块
+    [{5233782396}] = "https://raw.githubusercontent.com/zxc5558/GHT/refs/heads/main/Sona.txt";
+    -- 索里亚世界
 }
 
 for ids, url in next, games do
